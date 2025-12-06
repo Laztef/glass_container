@@ -1,16 +1,14 @@
-# crystal_container
+# Glass container
 
-A new Flutter project.
+This is a simple widget to get a glass container, it is responsive and uses the size of the parent widget.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
+mobile preview
 
-A few resources to get you started if this is your first Flutter project:
+<img width="374" height="673" alt="mobile" src="https://github.com/user-attachments/assets/d441029b-00ec-4c84-9fd8-0965b8e9d0c0" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+desktop preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1333" height="713" alt="desktop" src="https://github.com/user-attachments/assets/8813b616-dedd-42f9-acc8-3bae076be559" />
+
